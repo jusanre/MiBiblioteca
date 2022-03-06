@@ -21,11 +21,11 @@ Para cargar el servicio de la API. Ver línea en package.json ("api": "json-serv
 ### `npm run api`
 Correrá en http://localhost:3333/libros. Y su uso es el siguiente:
 
-GET /libros         Devuelve todos los libros
-GET /libros/id      Devuelve un libro determinado por el id
-POST /libros        Inserta un nuevo libro (envía título y autor)
-PUT /libros/id      Modifica un libro existente (envía id, título y autor)
-DELETE /libros/id   Borra un registro determinado por el id 
+- GET /libros         Devuelve todos los libros
+- GET /libros/id      Devuelve un libro determinado por el id
+- POST /libros        Inserta un nuevo libro (envía título y autor)
+- PUT /libros/id      Modifica un libro existente (envía id, título y autor)
+- DELETE /libros/id   Borra un registro determinado por el id 
 
 El intercambio de datos con el servidor se realiza completo en formato JSON. Modificar para adaptarlo a vuestra propia API.
 
