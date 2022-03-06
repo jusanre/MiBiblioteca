@@ -1,0 +1,29 @@
+{
+  "libros": [
+    {
+      "id": 1,
+      "titulo": "Cien años de Soledad",
+      "autor": "Gabriel García Márquez"
+    },
+    {
+      "id": 2,
+      "titulo": "El lector de Julio Verne",
+      "autor": "Almudena Grandes"
+    },
+    {
+      "id": 3,
+      "titulo": "Malena es un nombre de Tango",
+      "autor": "Almudena Grandes"
+    },
+    {
+      "id": 4,
+      "titulo": "Chamán",
+      "autor": "Noah Gordon"
+    },
+    {
+      "id": 5,
+      "titulo": "La Bestia",
+      "autor": "Carmen Mola (pseudónimo)"
+    }
+  ]
+}
