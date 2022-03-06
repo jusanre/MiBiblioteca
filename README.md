@@ -1,7 +1,7 @@
 # CRUD con ReactJS Biblioteca Simple
 
 Ejercicio ejemplo para 2º DAW 2021/2022 de creación de una SPA que ofrece un CRUD sobre una API de libros (título 
-y autor). 
+y autor). Todos los componentes se han definido con funciones y se usan hooks para la gestión de su estado.
 
 ## Instalación previa
 
